@@ -1,6 +1,9 @@
 title: Nordplaner ApS
 description: Website for Nordplaner ApS
 
+baseurl: /
+url: https://Nordplaner.github.io
+
 exclude:
   - Gemfile
   - Gemfile.lock
