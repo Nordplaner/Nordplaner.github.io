@@ -2,7 +2,7 @@ title: Nordplaner ApS
 description: Website for Nordplaner ApS
 
 baseurl: /
-url: https://Nordplaner.github.io
+url: https://nordplaner.github.io
 
 exclude:
   - Gemfile
